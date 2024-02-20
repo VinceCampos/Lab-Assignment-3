@@ -12,13 +12,13 @@ The application should allow users to set the payment method for an order and ca
 
 Sample output:
 
-Order item is keyboard.
-Unit price is 300.0
-Quantity is 10
+Order item is keyboard.  
+Unit price is 300.0  
+Quantity is 10  
 
-Payment order details  if GCash
-Discount rate is 0.0
-Payment amount is 3000.0
+Payment order details  if GCash  
+Discount rate is 0.0  
+Payment amount is 3000.0  
 
 Payment order details if Maya
 Discount rate is 0.05
